@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/FShop/Desktop/TEST"
+		},
+		{
+			"path": "../web"
+		},
+		{
+			"path": "../tai"
+		},
+		{
+			"path": "../sieuthi"
+		},
+		{
+			"path": "../taomenuu"
+		},
+		{
+			"path": "../abc"
+		},
+		{
+			"path": "C:/xampp/htdocs"
+		},
+		{
+			"path": "C:/xampp/htdocs/TranNgocTuyenvetinh"
+		},
+		{
+			"path": "../webclone"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "shopban"
+	}
+}
